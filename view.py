@@ -1,3 +1,3 @@
 class View:
     def welcome(self):
-        print("--- Welcome to iPhone Interface ---")
+        print("--- Welcome to Phone Interface ---")
