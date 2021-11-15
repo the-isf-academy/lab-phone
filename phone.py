@@ -1,6 +1,6 @@
-class iPhone:
-    def __init__(self,version):
-        self.version = version
+class Phone:
+    def __init__(self,os):
+        self.os = os
         self.battery = 100
 
     def play_game(self):
